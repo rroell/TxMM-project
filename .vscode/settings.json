@@ -1,4 +1,5 @@
 {
   "python.formatting.provider": "black",
-  "audioCues.volume": 0
+  "audioCues.volume": 0,
+  "python.analysis.typeCheckingMode": "basic"
 }
