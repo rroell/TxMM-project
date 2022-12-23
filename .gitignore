@@ -1,2 +1,3 @@
 test_trainer
 RoBBERT-finetuned/pytorch_model.bin
+RoBBERT-emotioNL/pytorch_model.bin
